@@ -9,9 +9,6 @@ export default function Projects() {
   ];
   return (
     <div className="flex h-fit w-full flex-col items-center justify-center gap-8 px-4 py-4">
-      <h1 className="font-primary font-nohemiLight text-2xl uppercase tracking-wide">
-        Projekteim
-      </h1>
       <div className="flex w-[70%] max-w-[70%] flex-wrap items-center justify-between gap-8">
         {projects.map((e) => (
           <div

@@ -22,6 +22,9 @@ export default function Home() {
       </div>
       <Services />
       <Seo />
+      <h1 className="font-nohemiLight text-2xl uppercase tracking-wide">
+        Projekteim
+      </h1>
       <Projects />
       <Footer />
     </div>

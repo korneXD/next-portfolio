@@ -9,7 +9,7 @@ export default {
     extend: {
       colors: {
         background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "var(--foreground)",
       },
       fontFamily: {
         nohemi: ["var(--font-nohemi)"],
